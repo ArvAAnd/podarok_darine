@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/podarok_darine/static/css/main.31d6cfe0.css",
+    "main.js": "/podarok_darine/static/js/main.4bd4773c.js",
+    "index.html": "/podarok_darine/index.html",
+    "main.4bd4773c.js.map": "/podarok_darine/static/js/main.4bd4773c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.4bd4773c.js"
+  ]
+}
