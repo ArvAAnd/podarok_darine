@@ -1,12 +1,16 @@
 {
   "files": {
-    "main.css": "/podarok_darine/static/css/main.31d6cfe0.css",
-    "main.js": "/podarok_darine/static/js/main.4bd4773c.js",
+    "main.css": "/podarok_darine/static/css/main.e8b6442f.css",
+    "main.js": "/podarok_darine/static/js/main.02f53f14.js",
+    "static/media/kitty_with_flowers.jpg": "/podarok_darine/static/media/kitty_with_flowers.e986c8ed76da08e8a6c4.jpg",
+    "static/media/angry_kitty.jpg": "/podarok_darine/static/media/angry_kitty.776be030775b807a2a60.jpg",
+    "static/media/kitty_with_handle_hand.jpg": "/podarok_darine/static/media/kitty_with_handle_hand.988a4970cc7d15bbc809.jpg",
     "index.html": "/podarok_darine/index.html",
-    "main.4bd4773c.js.map": "/podarok_darine/static/js/main.4bd4773c.js.map"
+    "main.e8b6442f.css.map": "/podarok_darine/static/css/main.e8b6442f.css.map",
+    "main.02f53f14.js.map": "/podarok_darine/static/js/main.02f53f14.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.4bd4773c.js"
+    "static/css/main.e8b6442f.css",
+    "static/js/main.02f53f14.js"
   ]
 }
