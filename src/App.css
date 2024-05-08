@@ -47,7 +47,7 @@ h1{
 }
 
  .no{
-  position: absolute;
+  position: static;
   /* transition: 0s;
   top: 750px;
   transform: translateY(-10px); */
